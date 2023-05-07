@@ -1,0 +1,10 @@
+package teste01;
+
+public class cp {
+
+	public static void main(String[] args) {
+
+	System.out.println("codigo para trabalho de POO "); 
+	}
+
+}
